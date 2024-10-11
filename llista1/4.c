@@ -7,9 +7,13 @@ double polinomi(double x);
 
 int main(void){
     
-    
 
 
 
+
+
+}
+
+double polinomi(double x){
 
 }
